@@ -168,9 +168,6 @@ unknown person
 
 **Payal Koregave**
 
-If you upload this to GitHub, add:
-
-```
 ⭐ Star this repo if you like this project!
 ```
 
